@@ -1,5 +1,5 @@
 Model Name: Reinforcement Learning Car Agent
-a
+
 Algorithm: Proximal Policy Optimization (PPO)
 
 Environment: AWS DeepRacer Track
