@@ -3,6 +3,7 @@ def reward_function(params):
     track_width = params['track_width']
     distance_from_center = params['distance_from_center']
     speed = params['speed']  # Assuming speed is available in params
+    
     # Calculate markers for varying distances from the centerline
     marker_1 = 0.1 * track_width
     marker_2 = 0.25 * track_width
